@@ -1,6 +1,7 @@
 import TypewriterTitle from "@/components/TypewriterTitle";
 import { Button } from "@/components/ui/button";
 import Image from "next/image";
+import Link from "next/link";
 
 export default function Home() {
   return (
@@ -9,8 +10,9 @@ export default function Home() {
           <TypewriterTitle/>
         </h2>
       <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
-        <Button variant={"redcolor"}>Learn more</Button>
+        <Button variant={"redcolor"}><Link href="/about">Learn more</Link></Button>
       </div>
     </div>
   );
 }
+
