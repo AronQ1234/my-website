@@ -4,7 +4,7 @@ import Link from "next/link";
 const Projects = () => {
     return ( 
         <>
-            <div className="flex flex-wrap justify-between">
+            <div className="flex flex-wrap justify-between absolute w-full">
                 <Link href="projects/python"><Card Text="Python projects"/></Link>
                 <Link href="projects/websites"><Card Text="Websites"/></Link>
             </div>

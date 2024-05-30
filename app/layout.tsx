@@ -12,9 +12,11 @@ export default function RootLayout({
 }>) {  
 return (
   <html lang="en">
-    <body className=" bg-black">
+    <body id="particles-js">
       <NavBar/>
       {children}
+      <script src="../particles.js"></script>
+      <script src="../app.js"></script>
       </body>
   </html>
 );

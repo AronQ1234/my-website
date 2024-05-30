@@ -2,7 +2,7 @@ import Link from "next/link";
 import Card from "@/components/Card";
 const Websites = () => {
     return ( 
-        <div className="flex flex-wrap justify-between">
+        <div className="flex flex-wrap justify-between absolute w-full">
             <Link href="websites/robofriends"><Card Text="Robofriends" inProgress={false}/></Link>
             <Link href="websites/smart-brain"><Card Text="Smart Brain" inProgress={false}/></Link>
             <Link href="websites/code"><Card Text="Code" inProgress={true}/></Link>
