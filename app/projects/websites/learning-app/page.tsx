@@ -6,7 +6,7 @@ const LearningApp = () => {
                 <div className="float-left w-1/2 h-[90%] flex flex-row flex-wrap  justify-between">
                 <img className=" w-[50%] h-[45%]" src="../../../learningappDashboard.jpg" alt=""/>
                 <img className=" w-[50%] h-[45%]" src="../../../AccountHandelingLearningApp.jpg" alt=""/>
-                <img className=" w-[50%] h-[45%]" src="../../../VideosPdf-s.jpg" alt=""/>
+                <img className=" w-[50%] h-[45%]" src="../../../VideosPdf-s.png" alt=""/>
                 <img className=" w-[50%] h-[45%]" src="../../../VideosPhysics-Simulations.jpg" alt=""/>
                 </div>
                 <h1 className="text-gray-50 inline ml-2">This webside is created with nextjs jus like this projects website. It uses clerk for auhentication. 
