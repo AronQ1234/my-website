@@ -3,7 +3,7 @@ const SmartBrain = () => {
     return ( 
         <>
             <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full">
-                <img  className="float-left" src="../../../smart-brain.jpg" alt="sunset" width={"50%"} height={"90%"}/>
+                <img  className="float-left" src="../../../smart-brain.png" alt="sunset" width={"50%"} height={"90%"}/>
                 <h1 className="text-gray-50 inline ml-2">This is a webside created with react for the frontend and expressjs server for the backend. The back end is connecting to a database witch keeps track of the email, password, name, entries and the date when the user joined.
                 This project taught me how to create backends and different endpoints and how to connect a frontend with these endpoints. It also taught me SQL.
                 I ran into many problems especialy in deployment because the database did not connect properly.

@@ -4,13 +4,13 @@ const LearningApp = () => {
         <> 
             <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full">
                 <div className="float-left w-1/2 h-[90%] flex flex-row flex-wrap  justify-between">
-                <img className=" w-[50%] h-[45%]" src="../../../learningappDashboard.jpg" alt=""/>
-                <img className=" w-[50%] h-[45%]" src="../../../AccountHandelingLearningApp.jpg" alt=""/>
-                <img className=" w-[50%] h-[45%]" src="../../../VideosPdf-s.jpg" alt=""/>
-                <img className=" w-[50%] h-[45%]" src="../../../VideosPhysics-Simulations.jpg" alt=""/>
+                <img className=" w-[50%] h-[45%]" src="../../../learningappDashboard.png" alt=""/>
+                <img className=" w-[50%] h-[45%]" src="../../../AccountHandelingLearningApp.png" alt=""/>
+                <img className=" w-[50%] h-[45%]" src="../../../VideosPdf-s.png" alt=""/>
+                <img className=" w-[50%] h-[45%]" src="../../../VideosPhysics-Simulations.png" alt=""/>
                 </div>
                 <h1 className="text-gray-50 inline ml-2">This webside is created with nextjs jus like this projects website. It uses clerk for auhentication. 
-                Clerk has the account management window alredy built, so I added it as a component. 
+                Clerk has the account management window alredy built, so I added it as a compoent. 
                 The top-left image shows the dashboard after having signed in. 
                 The top-right image shows the account management window. 
                 The two other images show that I have added videos, pdf, and on the bottom-right we also have a physics simulation embaded from https://phet.colorado.edu/ witch has many simulations used in schools for teching different topics. 
