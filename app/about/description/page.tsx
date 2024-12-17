@@ -12,7 +12,7 @@ const description = () => {
             <h1 className="text-gray-50 inline ml-2">
             I am Aron Qerimi. I am 16 years old and live in Albania. I was born on 27th of October. I am
             motivated and have taught myself a lot of things like coding without needing a teacher. I feel
-            especially motivated during different competitions. . I try to be honest and tell people what I
+            especially motivated during different competitions. I try to be honest and tell people what I
             think without hurting their feelings. I see myself as very creative. I like finding patterns and
             engaging in different creative activities. Chess requires a lot of creativity even though it does not
             look like it; so does coding. I think I am reliable because I am always there to help a family
