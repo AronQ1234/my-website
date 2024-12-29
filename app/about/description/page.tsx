@@ -8,7 +8,7 @@ const description = () => {
     <div className="flex flex-row gap-10 flex-wrap justify-center items-center absolute w-full h-full pt-10">
         <div className="flex flex-row flex-wrap justify-center gap-5 items-center w-4/5">
             {/* //TODO change image src */}
-            <Image src="/nextjs.png" alt="Aron Qerimi" width={200} height={200} className="rounded-full"/>
+            <Image src="/me.jpeg" alt="Aron Qerimi" width={200} height={200} className="rounded-full"/>
             <h1 className="text-gray-50 inline ml-2">
             I am Aron Qerimi. I am 16 years old and live in Albania. I was born on 27th of October. I am
             motivated and have taught myself a lot of things like coding without needing a teacher. I feel
